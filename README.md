@@ -9,6 +9,9 @@ Question - What is the most used language in programming?
 
 Profanity.
 
+***
+Q: Why do developers use glasses
+A: They cant C#
 
 ***
 Question: Why don't keyboards sleep?
